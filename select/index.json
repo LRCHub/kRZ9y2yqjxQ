@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【Ado】渇愛論II 歌いました",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-18T05:17:12.083319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渇愛論II 歌いました",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_渇愛論II_歌いました_Ado.txt"
+    }
+  ]
+}
